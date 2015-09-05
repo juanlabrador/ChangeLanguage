@@ -1,0 +1,13 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="language_list"
+        android:title="@string/setting_language"
+        android:defaultValue="-1"
+        android:entries="@array/languages"
+        android:entryValues="@array/languages"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null" />
+
+</PreferenceScreen>

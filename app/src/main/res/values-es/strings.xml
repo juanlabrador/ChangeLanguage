@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Idioma</string>
+    <string name="action_setting">Configuración</string>
+    <string name="hello">¡Hola a todos!</string>
+    <string name="setting_language">Idioma</string>
+    <string name="format_day">EEEE</string>
+    <string name="format_date">MMMM dd, yyyy</string>
+    <string name="date">Hoy es %1$s, estamos en un día %2$s</string>
+
+    <string-array name="languages">
+        <item>@string/spanish</item>
+        <item>@string/english</item>
+        <item>@string/french</item>
+        <item>@string/german</item>
+        <item>@string/portuguese</item>
+    </string-array>
+
+    <string name="spanish">Español</string>
+    <string name="english">Inglés</string>
+    <string name="french">Francés</string>
+    <string name="german">Alemán</string>
+    <string name="portuguese">Portugués</string>
+</resources>
